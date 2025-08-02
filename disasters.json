@@ -1,0 +1,12 @@
+[
+    {
+        "title": "abcdef",
+        "description": "abcdeg",
+        "user_lat": 30.6285,
+        "user_lng": 76.7981,
+        "disaster_lat": 30.629585177843378,
+        "disaster_lng": 76.79728746414186,
+        "timestamp": "2025-08-02T13:29:45.498576",
+        "verified": false
+    }
+]

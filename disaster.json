@@ -1,0 +1,68 @@
+[
+  {
+    "title": "gadda aa gya",
+    "description": "gand phat gyi bhai",
+    "latitude": 30.904213142451248,
+    "longitude": 75.84999561309816,
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
+    }
+  },
+  {
+    "title": "idhar bhi gadda AA GYA",
+    "description": "idhar bhi gand phat gyi ",
+    "latitude": 30.900965,
+    "longitude": 75.8572758,
+    "verification_status": "verified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
+    }
+  },
+  {
+    "title": "phat gyi",
+    "description": "pani tha",
+    "latitude": 30.900965,
+    "longitude": 75.8572758,
+    "verification_status": "verified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
+    }
+  },
+  {
+    "title": "uuu",
+    "description": "ugvty",
+    "latitude": 30.906054251250392,
+    "longitude": 75.87819099426271,
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
+    }
+  },
+  {
+    "title": "disaster hogya",
+    "description": "bhayankar ekdum",
+    "latitude": 30.905179728986525,
+    "longitude": 75.85409402847291,
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
+    }
+  },
+  {
+    "title": "porthole",
+    "description": "agya",
+    "latitude": 31.631752420513983,
+    "longitude": 74.88216876983644,
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 31.6571648,
+      "longitude": 74.8683264
+    }
+  }
+]
