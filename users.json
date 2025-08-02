@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "username": "satisfyingclepz",
+        "email": "rudrakshkhanna.ourtapes@gmail.com",
+        "password": "scrypt:32768:8:1$HF2vJlKHeQBAvGdO$b2ce5b4b88c8df3f18cbd6ed03462773edca295ce0c9749df880150806e379ac34d619c68062085fcd8b37d4fd9462e1040e772b2afda1887307ec9860b7964a",
+        "phone": "9872773606"
+    },
+    {
+        "id": 2,
+        "username": "admin",
+        "email": "kamialam834@gmail.com",
+        "password": "scrypt:32768:8:1$vlIHlnqY510biEjY$5fc650685e14ecff290657f49c3caeb25a71d94e57e6c493d910d466589269bb3022b92321c39b826cfc3e264fe139ab587b43e9c9154da0e48a9ed986298658",
+        "phone": "2424325325325"
+    },
+    {
+        "id": 3,
+        "username": "newme",
+        "email": "rudrakshkhanna9@gmail.com",
+        "password": "scrypt:32768:8:1$Yfb0QNndeugM8Kn1$375e59e8f5feec3fb14810fb4ac296ff009c5fed7bfe34692c907449b7603763bc76eab71657274d3de12b2426a8292e171f338b44a197a38a8d118fc4f078a6",
+        "phone": "9872773605"
+    },
+    {
+        "id": 4,
+        "username": "jojoj",
+        "email": "Beliver@gmail.com",
+        "password": "scrypt:32768:8:1$zgaz6gzGZh1VPCzk$e0f8ff8ce77b3879a7585c2c3ba8db951813905d21096ffe4480ef3ab6c6a94bf20c4d9e6e4c8b861cb7d262650f08dfb2b0d318dd3e397c8b57660455c7b724",
+        "phone": "Beliver123@"
+    }
+]

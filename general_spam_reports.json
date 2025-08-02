@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "category": "Phishing/Scam",
+    "details": null,
+    "timestamp": "2025-08-02T15:42:16.596421"
+  },
+  {
+    "id": 1,
+    "category": "Phishing/Scam",
+    "details": null,
+    "timestamp": "2025-08-02T15:47:01.830323",
+    "related_disaster_id": 2
+  }
+]

@@ -1,12 +1,49 @@
 [
-    {
-        "title": "abcdef",
-        "description": "abcdeg",
-        "user_lat": 30.6285,
-        "user_lng": 76.7981,
-        "disaster_lat": 30.629585177843378,
-        "disaster_lng": 76.79728746414186,
-        "timestamp": "2025-08-02T13:29:45.498576",
-        "verified": false
+  {
+    "title": "GADDA AA GYA",
+    "description": "bariah ho gyi hai ",
+    "latitude": 30.90334780908188,
+    "longitude": 75.85563898086549,
+    "category": "pothole",
+    "photos": [
+      "832f921c91d31d9b_Screenshot 2025-02-02 205540.png"
+    ],
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.900965,
+      "longitude": 75.8572758
     }
+  },
+  {
+    "title": "new disaster",
+    "description": "awwmhjv  diuihqoi;d",
+    "latitude": 30.68306024262649,
+    "longitude": 76.83655500411989,
+    "category": "pothole",
+    "photos": [
+      "c914f8473fa5ef2b_Screenshot (15).png"
+    ],
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.6832271,
+      "longitude": 76.8404989
+    }
+  },
+  {
+    "id": 2,
+    "title": "dsvse",
+    "description": "esves",
+    "latitude": 30.682100647214973,
+    "longitude": 76.83807849884035,
+    "category": "pothole",
+    "photos": [
+      "fd034f546d99c524_WhatsApp_Image_2025-07-27_at_17.39.30_a8c6992c-removebg-preview.png"
+    ],
+    "verification_status": "unverified",
+    "user_location": {
+      "latitude": 30.6831252,
+      "longitude": 76.8405129
+    },
+    "flags": 3
+  }
 ]
